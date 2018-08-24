@@ -1,1 +1,1 @@
-worker: node music.js
+Worker: node bot.js
